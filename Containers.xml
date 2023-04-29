@@ -1,0 +1,19 @@
+<Containers>
+    <container id="1000">
+        <name>A</name>
+        <capacity litres="500" />
+
+    </container>
+    <container id="1001">
+        <name>B</name>
+        <capacity litres="700" />
+
+    </container>
+    <container id="1002">
+        <name>C</name>
+        <capacity litres="900" />
+
+    </container>
+
+
+</Containers>
